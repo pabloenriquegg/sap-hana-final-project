@@ -1,0 +1,10 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+~$*.docx
+~$*.pdf
