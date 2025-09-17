@@ -34,7 +34,7 @@ This allows the project to be reviewed and executed directly in any SAP HANA sys
 
 ## README.md (versión en español)
 
-```markdown
+
 # Proyecto Final SAP HANA – Videoclub
 
 Proyecto desarrollado durante un curso de **SAP HANA**. Modela un sistema sencillo de alquiler de películas con proveedores, películas, socios y alquileres, incluyendo procedimientos SQLScript y control básico de stock.
